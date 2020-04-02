@@ -13,6 +13,6 @@ def find_min_in_nested_arrays(src)
     result << num
     row += 1
   end
-  result
+  p result
 end
 
